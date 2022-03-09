@@ -1,0 +1,22 @@
+/* @import url(https://fonts.googleapis.com/css?family=Pacifico); */
+
+body {
+    background: #1c1c1c;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: #1abc9c;
+    color:white;
+    font-size: 20px;
+}
+
+h1 {
+    cursor: pointer;
+    background-color: #1abc9c;
+}
+
+p {
+    color: white;
+}
