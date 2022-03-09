@@ -7,16 +7,20 @@ body {
 .header {
     padding: 20px;
     text-align: center;
-    background-color: #1abc9c;
+    background-color: darkblue;
     color:white;
     font-size: 20px;
 }
 
 h1 {
     cursor: pointer;
-    background-color: #1abc9c;
+    background-color: darkblue;
 }
 
 p {
     color: white;
+}
+
+@media screen (min-width: 320px) and (max-width: 640px) {
+	width: 320px
 }
